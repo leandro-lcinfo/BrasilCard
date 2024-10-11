@@ -1,0 +1,20 @@
+11/10/2024
+
+Sistema desenvolvido em Visual Basic 6.
+Banco de dados SQL Server Express 2022.
+Relatório em Crystal Reports XI
+
+Apresento a seguir minha solução para o desafio técnico do Grupo Adriano Cobucio. 
+Optei por utilizar o Visual Basic para realizar as instruções SQL, 
+o que permitiu uma execução rápida e eficiente.
+
+A solução implementada faz o cadastro de clientes e lançamentos de transações.
+Possui a função de pesquisa entre datas e filtragem das informações.
+Também gera relatório para impressão e faz a exportaçao dos registros para o Excel
+de acordo com os registros exibidos na tela.
+ 
+Acredito ter atingido os objetivos solicitados e me coloco à disposição para qualquer
+esclarecimento adicional.
+
+Obrigado,
+Leandro Moraes
